@@ -1,0 +1,4 @@
+mongoose.connect('mongodb+srv://<Sarikareddy>:<Sarikareddy@816>@cluster0.mongodb.net/internship', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
